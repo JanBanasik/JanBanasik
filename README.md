@@ -1,5 +1,5 @@
 
-# Hello, I'm [John] 👋
+# Hello, I'm John 👋
 
 Welcome to my GitHub profile! I am a second-year student of **Computer Science and Artificial Intelligence** at the **AGH University of Science and Technology** (AGH UST) in Krakow, Poland. I am passionate about learning and exploring new technologies, with a particular interest in programming, software development, and artificial intelligence.
 
