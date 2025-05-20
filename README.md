@@ -26,6 +26,7 @@ I’m a second-year student of **Computer Science and Artificial Intelligence** 
 
 ---
 
+
 ## 🛠️ Technologies & Tools
 
 ### Languages  
@@ -60,6 +61,14 @@ I’m a second-year student of **Computer Science and Artificial Intelligence** 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </p>
+
+---
+
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/JanBanasik?theme=nord&font=Montserrat&ext=heatmap)
 
 ---
 
