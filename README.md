@@ -9,7 +9,7 @@ Quantitative engineer bridging the gap between **mathematical modeling**, **gene
 ## 🏆 Recent Highlights
 
 * 🥇 **Winner @ UBS QRM & RiskTech AI Hackathon 2025 (Theme: Black Swan Events)**
-    * Led the *Riskonauts* team to victory by developing an AI-driven stress testing platform.
+    * Won the hackathon by developing an AI-driven stress testing platform to simulate unprecedented ”Black Swan” financial events
     * **Tech:** CVAE (Generative AI) for scenario generation, SHAP for explainability, FastAPI & React.
     * **Impact:** Simulated unprecedented market shocks to overcome historical data bias in traditional risk models.
 
@@ -18,10 +18,9 @@ Quantitative engineer bridging the gap between **mathematical modeling**, **gene
 ## 🚀 Professional Focus & Research
 
 * 🏦 **Quantitative Finance:** Automating regulatory validation for credit risk models (PD, LGD, EAD) at **UBS**.
-    * *Key Tech:* **Polars**, **Joblib** (Parallel Computing), **Docker**.
+    * *Key Tech:* **Polars**, **Joblib** (Parallel Computing), **Docker**, **FastAPI**.
 * 🔬 **AI Research:** Co-author of *[“Intelligent Multi-Label Triage for Hematological Comorbidities using BERT”](https://zenodo.org/records/18675510)*.
-    * *Focus:* Addressing extreme class imbalance with Cost-Sensitive Focal Loss and ensuring reliability via Probability Calibration (**ECE**).
-* 🧮 **Algorithmic Mastery:** Solved **1,600+ problems** on LeetCode with a focus on time/space complexity optimization.
+* 🧮 **Algorithms:** Solved **1,600+ problems** on LeetCode with a focus on time/space complexity optimization.
 
 ---
 
