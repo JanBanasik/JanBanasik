@@ -18,7 +18,7 @@ Quantitative engineer bridging the gap between **mathematical modeling**, **gene
 ## 🚀 Professional Focus & Research
 
 * 🏦 **Quantitative Finance:** Automating regulatory validation for credit risk models (PD, LGD, EAD) at **UBS**.
-    * *Key Tech:* **Polars**, **Joblib** (Parallel Computing), **Docker**, **FastAPI**.
+    * *Key Tech:* **Python**, **Polars**, **Joblib** (Parallel Computing), **Docker**, **FastAPI**.
 * 🔬 **AI Research:** Co-author of *[“Intelligent Multi-Label Triage for Hematological Comorbidities using BERT”](https://zenodo.org/records/18675510)*.
 * 🧮 **Algorithms:** Solved **1,600+ problems** on LeetCode with a focus on time/space complexity optimization.
 
