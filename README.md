@@ -1,6 +1,6 @@
 # Jan Banasik 👋
 
-**Quantitative Analyst Intern @ UBS | AI Research Engineer | CS & AI Student @ AGH University**
+**Quantitative Analyst @ UBS | AI Research Engineer | CS & AI Student @ AGH University**
 
 Quantitative engineer bridging the gap between **mathematical modeling**, **generative AI**, and **high-performance computing**. I build scalable tools for risk management and medical diagnostics.
 
